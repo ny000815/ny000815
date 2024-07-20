@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Yoshi
+## 🛠️ I’m learning C++ and ReactNative.
 
-<!--
-**ny000815/ny000815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Cards -->
+<p align="center">
+  <a href="https://github.com/ny000815?tab=repositories">
+    <img title="Yoshi's Github Stats" alt="Yoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ny000815&show_icons=true&theme=transparent)" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/zaki8/" target="_blank">
+    <img title="Yoshi's LeetCode Stats" alt="Yoshi's LeetCode Stats" src="https://leetcard.jacoblin.cool/zaki8?theme=dark&ext=heatmap" />
+  </a>
+</p>
