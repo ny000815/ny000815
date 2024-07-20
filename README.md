@@ -14,5 +14,3 @@
   </a>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ny000815&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny000815&layout=compact&theme=transparent)
