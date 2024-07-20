@@ -1,7 +1,7 @@
 # Hi 👋 I'm Yoshi
-## 🛠️ I’m learning C++ and Swift.
+### 🛠️ I’m learning C++ and Swift.
 
-### 🏋️ GitHub Stats
+## 🏋️ GitHub Stats
 <!-- Cards -->
 <p align="center">
   <a href="https://github.com/ny000815?tab=repositories">
