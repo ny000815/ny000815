@@ -1,7 +1,6 @@
 # Hi 👋 I'm Yoshi
 ## 🛠️ I’m learning C++ and Swift.
 
-![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ny000815&show_icons=true&theme=dark)
 
 <!-- Cards -->
 <p align="center">
