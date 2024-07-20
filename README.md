@@ -13,3 +13,6 @@
     <img title="Yoshi's LeetCode Stats" alt="Yoshi's LeetCode Stats" src="https://leetcard.jacoblin.cool/zaki8?theme=dark&ext=heatmap" />
   </a>
 </p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ny000815&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny000815&layout=compact&theme=transparent)
