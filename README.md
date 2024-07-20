@@ -1,4 +1,4 @@
-## Hi 👋 I'm Yoshi
+# Hi 👋 I'm Yoshi
 ## 🛠️ I’m learning C++ and ReactNative.
 
 <!-- Cards -->
