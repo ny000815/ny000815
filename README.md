@@ -1,10 +1,10 @@
 # Hi 👋 I'm Yoshi
-## 🛠️ I’m learning C++ and ReactNative.
+## 🛠️ I’m learning C++ and Swift.
 
 <!-- Cards -->
 <p align="center">
   <a href="https://github.com/ny000815?tab=repositories">
-    <img title="Yoshi's Github Stats" alt="Yoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ny000815&theme=dark)" />
+    <img title="Yoshi's Github Stats" alt="Yoshi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ny000815&show_icons=true&theme=)" />
   </a>
 </p>
 <p align="center">
