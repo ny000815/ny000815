@@ -1,5 +1,5 @@
 # Hi 👋 I'm Yoshi
-### 🛠️ I’m learning C++, Java and Python.
+### 🛠️ I’m learning C++.
 
 ## 🏋️ GitHub Stats
 <!-- Cards -->
