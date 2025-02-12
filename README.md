@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 🤝 </h3>
 <h3 align="center">I'm Yoshi! </h3>
 
-I work as a System Analyst👨‍💻
+- I work as a System Analyst👨‍💻
 
 ---
 
