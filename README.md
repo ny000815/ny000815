@@ -1,11 +1,15 @@
-<h3 align="center">Hi there 🙂</h3>
+<h3 align="center">Hi there 🤝 </h3>
 <h3 align="center">I'm Yoshi! </h3>
 
-I work as a System Analyst
+I work as a System Analyst👨‍💻
 
-- 🚀 I'm  studying Computer Science Basics at [New York University Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
+---
+
+- 🚀 I'm  studying Computer Science Basics at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
 - ⚙️ I use daily:  `.cpp`
 - 🧪 Any feedbacks or questions are welcome!
+
+---
 
 <div align="center">
   <a href="https://github.com/ny000815">
