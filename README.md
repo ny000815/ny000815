@@ -5,9 +5,8 @@
 
 ---
 
-- 🚀 I'm  studying Computer Science Basics at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
-- ⚙️ I use daily:  `.cpp`
-- 🫶 Any feedbacks or questions are welcome!
+- 🚀 I'm  studying Computer Science Basics with `.cpp` at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
+- 🫶 Any issue reports, pull requests or feedbacks are welcome!
 
 ---
 
