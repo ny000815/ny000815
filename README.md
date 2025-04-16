@@ -5,7 +5,7 @@
 
 ---
 
-- 🚀 I'm  studying Computer Science Basics with `.cpp` at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
+- 🚀 I'm  studying Computer Science Fundamentals with `.cpp` at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
 - 📊 I’m studying for Kaggle competitions to enhance my data science and machine learning skills.
 - 🫶 Any issue reports, pull requests or feedbacks are welcome!
 
