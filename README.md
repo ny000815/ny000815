@@ -4,7 +4,7 @@
 
 ---
 
-- 🚀 I'm  studying Computer Science Fundamentals with `.cpp` at [NYU Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge)
+- 🚀 I'm  studying Computer Science at UPenn
 - 📊 I'm participating in AtCoder competitions to improve my data structures and algorithms skills.
 - 🫶 Any issue reports, pull requests or feedbacks are welcome!
 
