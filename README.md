@@ -4,6 +4,5 @@
 
 - 🚀 Computer Science student at UPenn.
 - 📚 Learning kdb+/q, Python, C++, and Java.
-- 📊 Enjoying AtCoder contests.
 
 ---
