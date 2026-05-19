@@ -2,7 +2,7 @@
 
 ---
 
-- 🚀 Computer Science student at UPenn.
+- 🚀 Computer Science student.
 - 📚 Learning kdb+/q, Python, C++, and Java.
 
 ---
